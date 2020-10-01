@@ -11,12 +11,12 @@
  <br/> :purple_heart: &nbsp; Buscando sempre aprender algo novo
  <br/> :computer: &nbsp; Linguagens que conheço: Java, Python, JavaScript e TypeScript
  <br/> 👨‍💻 &nbsp; Já desenvolvi projetos em: Spring Boot, Maven, Angular, Flask (Python) e Kotlin 
- <br/> 💬 &nbsp; Sobre mim: Além de tecnologia, amo livros, séries e filmes! Quando não estou estudando, estou jogando um game: Warzone ou algum outro joguinho! Só me chamar :) </p>
+ <br/> 💬 &nbsp;Sobre mim: Além de tecnologia, amo livros, séries e filmes! Quando não estou estudando, estou jogando um game: Warzone ou algum outro joguinho! Só me chamar :) </p>
  
 
 <p align="left">  :love_letter:  Contato:
  
-[![Linkedin Badge](https://img.shields.io/badge/-IzabelaToledo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jefferson-ximenes/)](https://www.linkedin.com/in/jefferson-ximenes/) 
+[![Linkedin Badge](https://img.shields.io/badge/-JeffersonXimenes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jefferson-ximenes/)](https://www.linkedin.com/in/jefferson-ximenes/) 
 [![Gmail Badge](https://img.shields.io/badge/-jefferson.ximenes11@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jefferson.ximenes11@hotmail.com)](mailto:jefferson.ximenes11@hotmail.com)
 
 <!-- Créditos Izabela Toledo -->
