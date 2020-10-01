@@ -1,5 +1,5 @@
-<h3 align="center"> Olá, sou Jefferson Ximenes! :sunflower:</h3>
-<h5 align="center"> Desenvolvedor Jr apaixonada por código. <br/> 
+<h3 align="center"> Olá, sou Jefferson Ximenes! 🎮</h3>
+<h5 align="center"> Desenvolvedor Jr - apaixonada por código. <br/> 
  Adoro resolver problemas, gosto de sempre está aprendendo algo novo. Em horas vagas aprecio uma boa leitura e um game!</h5> 
 
 <p align="center">
@@ -7,17 +7,17 @@
 </p>
 
 
- <p align="justify"> :rocket:  &nbsp; Atualmente sou Desenvolvedor Jr -
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end 
-  
+ <p align="justify"> :rocket:  &nbsp; Atualmente sou Desenvolvedor Jr - RD
+ <br/> :purple_heart: &nbsp; Buscando sempre aprender algo novo
  <br/> :computer: &nbsp; Linguagens que conheço: Java, Python, JavaScript e TypeScript
+ <br/> 👨‍💻 Já desenvolvi projetos em: Spring Boot, Maven, Angular, Flask (Python) e Kotlin 
  <br/> 💬  &nbsp; Sobre mim: Além de tecnologia, amo livros, séries e filmes! Quando não estou estudando, estou jogando um game: Warzone ou algum outro joguinho! Só me chamar :) </p>
  
 
 <p align="left">  :love_letter:  Contato:
  
-[![Linkedin Badge](https://img.shields.io/badge/-IzabelaToledo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/izabela-toledo/)](https://www.linkedin.com/in/jefferson-ximenes/) 
-[![Gmail Badge](https://img.shields.io/badge/-it.amancio@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:it.amancio@gmail.com)](mailto:jefferson.ximenes11@hotmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Jefferson-ximenes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jefferson-ximenes/)](https://www.linkedin.com/in/jefferson-ximenes/) 
+[![Gmail Badge](https://img.shields.io/badge/-jefferson.ximenes11@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jefferson.ximenes11@hotmail.com)](mailto:jefferson.ximenes11@hotmail.com)
 
 
 </p>
